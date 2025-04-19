@@ -1,0 +1,8 @@
+ffmpeg-python
+imageio
+flask
+celery
+torch
+torchvision
+real-esrgan
+waifu2x
